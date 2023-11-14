@@ -12,8 +12,10 @@ header{
   display:block;
 }
 h1{
-  font-weight:400; 
+  font-weight:600; 
   display:block;
+  color:#639CC7
+
   
 }
 .description{
@@ -73,7 +75,7 @@ label{
   display:block;
   width:100%;
   padding:8px;
-  background-color:green;
+  background-color:#639CC7;
   color:white;
   font-size:17px;
   font-weight:bold;
